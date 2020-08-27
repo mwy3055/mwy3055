@@ -1,4 +1,9 @@
-### Hi there 👋
+# mwy3055
+## Interested
+### Problem Solving & Algorithm
+### Android Application Developer
+
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/generate_badge?boj=mwy3055)](https://solved.ac/mwy3055)
 
 <!--
 **mwy3055/mwy3055** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
