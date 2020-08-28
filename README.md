@@ -13,14 +13,21 @@
 
 - Codeforces - [mwy3055](https://codeforces.com/profile/isolet)
 
-#### Android Application Developer
-
+#### Android Application
+* Stopped
+  * Game Record for League of Legends (Private)
+  * ENG-KOR Wordbook (Private)
+* Currently Working
+  * MiTweet for Twitter (Private)
+  
+* * *
 ### Interested in
 
-#### Python Machine Learning
+* Python Machine Learning
 
+* * *
 ### Contact
-Email: <mwy3055@gmail.com>
+* Email: <mwy3055@gmail.com>
 
 <!--
 **mwy3055/mwy3055** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
