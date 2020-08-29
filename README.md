@@ -11,7 +11,7 @@
 
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=mwy3055)](https://solved.ac/mwy3055)
 
-- Codeforces - [mwy3055](https://codeforces.com/profile/isolet)
+- Codeforces - [isolet](https://codeforces.com/profile/isolet)
 
 #### Android Application
 * Stopped
