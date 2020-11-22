@@ -16,8 +16,8 @@
 #### Android Application
 * Stopped
   * Game Record for League of Legends (Private)
-  * ENG-KOR Wordbook (Private)
 * Currently Working
+  * MyVoca: ENG-KOR Wordbook
   * MiTweet for Twitter (Private)
   
 * * *
