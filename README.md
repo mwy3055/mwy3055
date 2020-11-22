@@ -1,11 +1,11 @@
 # mwy3055
 ## Always Thinking <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/google/241/thinking-face_1f914.png" width="3%" height="3%" alt="Thinking Face"></img>
 
-### Studying
+### 🔭 Currently studying about
 - Major: Smart ICT Convergence
 - Minor: Applied Statistics
 
-### Learning
+### 🌱 Currently learning about
 #### Problem Solving & Algorithm
 - Baekjoon Online Judge - [mwy3055](https://www.acmicpc.net/user/mwy3055)
 
@@ -17,7 +17,7 @@
 * Stopped
   * Game Record for League of Legends (Private)
 * Currently Working
-  * ``MyVoca``: ENG-KOR Wordbook
+  * [``MyVoca``](https://github.com/mwy3055/MyVoca): ENG-KOR Wordbook
   * ``MiTweet for Android`` (Private)
   
 * * *
@@ -26,7 +26,7 @@
 * Python Machine Learning
 
 * * *
-### Contact
+### 📫 How to reach me:
 * Email: <mwy3055@gmail.com>
 
 <!--
