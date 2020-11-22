@@ -17,8 +17,8 @@
 * Stopped
   * Game Record for League of Legends (Private)
 * Currently Working
-  * MyVoca: ENG-KOR Wordbook
-  * MiTweet for Twitter (Private)
+  * ``MyVoca``: ENG-KOR Wordbook
+  * ``MiTweet for Android`` (Private)
   
 * * *
 ### Interested in
