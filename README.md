@@ -2,7 +2,7 @@
 ## Always Thinking <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/google/241/thinking-face_1f914.png" width="3%" height="3%" alt="Thinking Face"></img>
 
 ### Studying
-- Major: Smart ICT Convergence at Konkuk University
+- Major: Smart ICT Convergence
 - Minor: Applied Statistics
 
 ### Learning
