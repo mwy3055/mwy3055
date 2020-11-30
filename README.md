@@ -13,10 +13,10 @@
 
 - Codeforces - [isolet](https://codeforces.com/profile/isolet)
 
-#### Android Application
-* Stopped
+#### Android Development
+* Paused
   * Game Record for League of Legends (Private)
-* Currently Working
+* Now Working
   * [``MyVoca``](https://github.com/mwy3055/MyVoca): ENG-KOR Wordbook
   * ``MiTweet for Android`` (Private)
   
@@ -24,6 +24,10 @@
 ### Interested in
 
 * Python Machine Learning
+
+* * *
+### ⚡ Fun fact:
+* Mint-Chocolate lover🍧
 
 * * *
 ### 📫 How to reach me:
