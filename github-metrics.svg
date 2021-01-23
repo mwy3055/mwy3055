@@ -942,8 +942,8 @@
             </div>
           
             <div class="entry">
-              <span class="value">2</span>
-              <div class="bar" style="height: 5.555555555555555px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+              <span class="value"></span>
+              <div class="bar" style="height: 0px; background-color: var(--color-calendar-graph-day-L0-bg)"></div>
               11
             </div>
           
@@ -1054,8 +1054,8 @@
               </div>
             
               <div class="entry">
-                <span class="value">18</span>
-                <div class="bar" style="height: 30px; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
+                <span class="value">16</span>
+                <div class="bar" style="height: 26.666666666666668px; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
                 Thu
               </div>
             
@@ -1081,20 +1081,20 @@
             
               <div class="entry">
                 <span class="name">C</span>
-                <div class="bar" style="width: 73.08800000000001%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
-                <span class="value">91%</span>
+                <div class="bar" style="width: 74.152%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                <span class="value">93%</span>
               </div>
             
               <div class="entry">
                 <span class="name">Java</span>
-                <div class="bar" style="width: 4.808%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                <div class="bar" style="width: 4.88%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                 <span class="value">6%</span>
               </div>
             
               <div class="entry">
                 <span class="name">Python</span>
-                <div class="bar" style="width: 2.104%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                <span class="value">3%</span>
+                <div class="bar" style="width: 0.968%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                <span class="value">1%</span>
               </div>
             
           </div>
@@ -1126,7 +1126,7 @@
       
         <footer>
           <span>These metrics do not include all private contributions, timezone Asia/Seoul</span>
-          <span>Last updated Sat, 23 Jan 2021 01:03:50 GMT with lowlighter/metrics@3.2.0</span>
+          <span>Last updated Sat, 23 Jan 2021 03:07:15 GMT with lowlighter/metrics@3.2.0</span>
         </footer>
       
       <div id="metrics-end"></div>
