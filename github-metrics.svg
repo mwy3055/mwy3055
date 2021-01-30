@@ -942,8 +942,8 @@
             </div>
           
             <div class="entry">
-              <span class="value">4</span>
-              <div class="bar" style="height: 11.11111111111111px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+              <span class="value">6</span>
+              <div class="bar" style="height: 16.666666666666664px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
               11
             </div>
           
@@ -1066,8 +1066,8 @@
               </div>
             
               <div class="entry">
-                <span class="value">4</span>
-                <div class="bar" style="height: 7.6923076923076925px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                <span class="value">6</span>
+                <div class="bar" style="height: 11.538461538461538px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                 Sat
               </div>
             
@@ -1081,14 +1081,20 @@
             
               <div class="entry">
                 <span class="name">C</span>
-                <div class="bar" style="width: 74.99999999999999%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                <div class="bar" style="width: 74.84%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
                 <span class="value">94%</span>
               </div>
             
               <div class="entry">
                 <span class="name">Java</span>
-                <div class="bar" style="width: 5%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                <div class="bar" style="width: 4.992%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                 <span class="value">6%</span>
+              </div>
+            
+              <div class="entry">
+                <span class="name">Kotlin</span>
+                <div class="bar" style="width: 0.16799999999999998%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                <span class="value">0%</span>
               </div>
             
           </div>
@@ -1120,7 +1126,7 @@
       
         <footer>
           <span>These metrics do not include all private contributions, timezone Asia/Seoul</span>
-          <span>Last updated Sat, 30 Jan 2021 01:52:36 GMT with lowlighter/metrics@3.2.0</span>
+          <span>Last updated Sat, 30 Jan 2021 02:31:57 GMT with lowlighter/metrics@3.2.0</span>
         </footer>
       
       <div id="metrics-end"></div>
