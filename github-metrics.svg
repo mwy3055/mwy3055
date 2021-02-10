@@ -1065,8 +1065,8 @@
             </div>
           
             <div class="entry">
-              <span class="value">10</span>
-              <div class="bar" style="height: 41.66666666666667px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+              <span class="value">8</span>
+              <div class="bar" style="height: 33.33333333333333px; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
               13
             </div>
           
@@ -1147,8 +1147,8 @@
               </div>
             
               <div class="entry">
-                <span class="value">4</span>
-                <div class="bar" style="height: 10px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                <span class="value">2</span>
+                <div class="bar" style="height: 5px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                 Mon
               </div>
             
@@ -1192,14 +1192,14 @@
             
               <div class="entry">
                 <span class="name">C</span>
-                <div class="bar" style="width: 42.528%; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
-                <span class="value">53%</span>
+                <div class="bar" style="width: 41.2%; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
+                <span class="value">52%</span>
               </div>
             
               <div class="entry">
                 <span class="name">Kotlin</span>
-                <div class="bar" style="width: 37.472%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
-                <span class="value">47%</span>
+                <div class="bar" style="width: 38.8%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                <span class="value">49%</span>
               </div>
             
           </div>
@@ -1238,7 +1238,7 @@
           
             <span>These metrics do not include all private contributions, timezone Asia/Seoul</span>
           
-          <span>Last updated Wed, 10 Feb 2021 04:13:18 GMT with lowlighter/metrics@3.3.0</span>
+          <span>Last updated Wed, 10 Feb 2021 05:11:13 GMT with lowlighter/metrics@3.3.0</span>
         </footer>
       
       <div id="metrics-end"></div>
