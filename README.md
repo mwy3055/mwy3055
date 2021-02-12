@@ -16,9 +16,9 @@
 #### Android Application Development *with Kotlin*
 * Paused
   * Game Record for League of Legends (Private)
+  * ``MiTweet for Android`` (Private)
 * Now Working
   * [``MyVoca``](https://github.com/mwy3055/MyVoca): ENG-KOR Wordbook
-  * ``MiTweet for Android`` (Private)
   
 * * *
 ### Interested in
