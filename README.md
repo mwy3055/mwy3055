@@ -13,7 +13,7 @@
 
 - Codeforces - [isolet](https://codeforces.com/profile/isolet)
 
-#### Android Application Development *with Kotlin*
+#### Android Developer *with Kotlin*
 * Paused
   * Game Record for League of Legends (Private)
   * ``MiTweet for Android`` (Private)
