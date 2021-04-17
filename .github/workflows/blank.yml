@@ -24,7 +24,7 @@ jobs:
           plugin_lines: yes
           # Habits
           plugin_habits: yes
-          plugin_habits_from: 200
+          plugin_habits_from: 500
           plugin_habits_days: 31
           plugin_habits_charts: yes
           config_timezone: Asia/Seoul
