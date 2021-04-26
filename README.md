@@ -24,6 +24,7 @@
 ### Interested in
 
 * Python Machine Learning
+* Web development (Full-stack)
 
 * * *
 ### ⚡ Fun fact:
