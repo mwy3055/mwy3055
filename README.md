@@ -14,11 +14,11 @@
 - Codeforces - [isolet](https://codeforces.com/profile/isolet)
 
 #### Android Developer *with Kotlin*
+* Now Working
+  * [``MyVoca``](https://github.com/mwy3055/MyVoca): ENG-KOR Wordbook
 * Paused
   * Game Record for League of Legends (Private)
   * ``MiTweet for Android`` (Private)
-* Now Working
-  * [``MyVoca``](https://github.com/mwy3055/MyVoca): ENG-KOR Wordbook
   
 * * *
 ### Interested in
