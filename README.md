@@ -7,7 +7,7 @@
 
 ### 🌱 Currently learning about
 #### Problem Solving & Algorithm
-- Baekjoon Online Judge - [mwy3055](https://www.acmicpc.net/user/mwy3055)
+- [Baekjoon Online Judge](https://www.acmicpc.net/user/mwy3055) ([Repository](https://github.com/mwy3055/boj))
 
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=mwy3055)](https://solved.ac/mwy3055)
 
