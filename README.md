@@ -14,7 +14,7 @@
 - Codeforces - [isolet](https://codeforces.com/profile/isolet)
 
 #### Android Developer
-* Learning *Jetpack Compose*! All apps below will be ported to Compose.
+* Learning *Jetpack Compose*! All apps below will be migrated into Compose.
 * Now Working
   * [``MyVoca``](https://github.com/mwy3055/MyVoca): ENG-KOR Wordbook
 * Paused
