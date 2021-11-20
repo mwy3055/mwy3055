@@ -13,23 +13,23 @@
 
 - Codeforces - [isolet](https://codeforces.com/profile/isolet)
 
-#### Android Developer
-* Learning *Jetpack Compose*! All apps below will be migrated into Compose.
+#### Android Developer with *Jetpack Compose*
 * Now Working
   * [``MyVoca``](https://github.com/mwy3055/MyVoca): ENG-KOR Wordbook
-* Paused
+* Paused (Legacy)
   * Game Record for League of Legends (Private)
   * ``MiTweet for Android`` (Private)
-  
-* * *
-### Interested in
 
-* Python Machine Learning
-* Web development (Full-stack)
+#### Web development (Full-stack)
+* Frontend
+  * HTML5, CSS3, JavaScript
+* Backend 
+  * Not yet
 
 * * *
 ### ⚡ Fun fact:
-* Mint-Chocolate lover🍧
+* 🍧 Mint-Chocolate holic
+* 🎹 Enjoy playing piano!
 
 * * *
 ### 📫 How to reach me:
