@@ -6,7 +6,7 @@
 
 ### 🌱 Currently learning about
 #### Problem Solving & Algorithm
-- [Baekjoon Online Judge](https://www.acmicpc.net/user/mwy3055) ([Code repository](https://github.com/mwy3055/boj))
+- [Baekjoon Online Judge](https://www.acmicpc.net/user/mwy3055) ([Code repository](https://github.com/mwy3055/Algorithm-codes/tree/main/baekjoon))
 
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=mwy3055)](https://solved.ac/mwy3055)
 
