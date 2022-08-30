@@ -15,8 +15,8 @@
 #### Android Developer *with Jetpack Compose*
 
  * [``MyVoca``](https://github.com/mwy3055/MyVoca): ENG-KOR Wordbook
- * [``violet-dreams``](https://github.com/mwy3055/violet-dreams): Violet-colored UI library for Jetpack Compose
- * ``hanbit-lunch`` (Now Private)
+ * [``violet-dreams``](https://github.com/mwy3055/violet-dreams): Violet theme UI library for Jetpack Compose
+ * [``hanbit-calendar``](https://github.com/mwy3055/hanbit-lunch): Calendar app for *Hanbit school for the blind*
 
 #### Kotlin
 
