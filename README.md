@@ -13,13 +13,12 @@
 - Codeforces - [isolet](https://codeforces.com/profile/isolet)
 
 #### Android Developer *with Jetpack Compose*
-
- * [``MyVoca``](https://github.com/mwy3055/MyVoca): ENG-KOR Wordbook
- * [``violet-dreams``](https://github.com/mwy3055/violet-dreams): Violet theme UI library for Jetpack Compose
+ * [``KUring``](https://github.com/KU-Stacks/KU-Ring-Android): Notification Alarm for Konkuk University Students
  * [``hanbit-calendar``](https://github.com/mwy3055/hanbit-lunch): Calendar app for *Hanbit school for the blind*
+ * [``violet-dreams``](https://github.com/mwy3055/violet-dreams): Violet theme UI library for Jetpack Compose
+ * [``MyVoca``](https://github.com/mwy3055/MyVoca): ENG-KOR Wordbook
 
 #### Kotlin
-
 * [``hsk-ktx``](https://github.com/mwy3055/hsk-ktx): Kotlin extension library for you and me. Covers ``Number``, ``Collection``, ``String``, etc.
 
 #### Web development (Full-stack)
