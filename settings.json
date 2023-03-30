@@ -1,0 +1,18 @@
+{
+    "extras": {
+        "metrics": {
+            "cpu": {
+                "overuse": true
+            },
+            "api": {
+                "github": {
+                    "overuse": true
+                }
+            },
+            "run": {
+                "tempdir": true,
+                "git": true
+            }
+        }
+    }
+}
