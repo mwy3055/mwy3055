@@ -14,7 +14,7 @@
 
 #### Android Developer *with Jetpack Compose*
  * [``KUring``](https://github.com/KU-Stacks/KU-Ring-Android): Notification Alarm for Konkuk University Students
- * [``hanbit-calendar``](https://github.com/mwy3055/hanbit-lunch): Calendar app for *Hanbit school for the blind*
+ * [``blinder``](https://github.com/blinder-23/blinder-android): School life helper app for blind students
  * [``violet-dreams``](https://github.com/mwy3055/violet-dreams): Violet theme UI library for Jetpack Compose
  * [``MyVoca``](https://github.com/mwy3055/MyVoca): ENG-KOR Wordbook
 
