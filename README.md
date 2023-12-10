@@ -1,40 +1,51 @@
-# Always Thinking
+# 🤔 Always Thinking
 
-### 🔭 Currently studying about
-- Major: Smart ICT Convergence
+Entry-level developer who wants to create better world for everyone. Interested in Android Application, cutting-edge technologies and a11y.
+
+# 🎓 Education
+**Konkuk University (2018. 03. ~ )**
+- Major: Smart ICT Convergence (Very Similar to Computer Science)
 - Minor: Applied Statistics
 
-### 🌱 Currently learning about
-#### Problem Solving & Algorithm
-- [Baekjoon Online Judge](https://www.acmicpc.net/user/mwy3055) ([Code repository](https://github.com/mwy3055/Algorithm-codes/tree/main/baekjoon))
+# 🌱 Skills
+
+## Android Development 
+
+- Kotlin, Android Jetpack (including Compose), AAC
+- Build an architecture with modularization and test.
+- Utilize popular libraries such as Hilt, Retrofit, Glide, etc.
+- Support robust accessibility features, such as TalkBack.
+
+### Projects
+
+- [Blindar](https://github.com/blinder-23/blinder-android)
+  - School Information Calendar App for Blind Students (Meals, School Schedules, etc.)
+  - Supported by [7th Barrier-Free Application Development Contest](https://www.autoeverapp.kr/)
+ - [KUring](https://github.com/KU-Stacks/KU-Ring-Android)
+   - Notifies any School Announcements of Konkuk University!
+  
+ 
+## Problem Solving & Algorithm
+- Baekjoon Online Judge
+  - [Profile](https://www.acmicpc.net/user/mwy3055)
+  - [Accepted Code](https://github.com/mwy3055/Algorithm-codes/tree/main/baekjoon)
 
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=mwy3055)](https://solved.ac/mwy3055)
 
 - Codeforces - [isolet](https://codeforces.com/profile/isolet)
 
-#### Android Developer *with Jetpack Compose*
- * [``KUring``](https://github.com/KU-Stacks/KU-Ring-Android): Notification Alarm for Konkuk University Students
- * [``blinder``](https://github.com/blinder-23/blinder-android): School life helper app for blind students
- * [``violet-dreams``](https://github.com/mwy3055/violet-dreams): Violet theme UI library for Jetpack Compose
- * [``MyVoca``](https://github.com/mwy3055/MyVoca): ENG-KOR Wordbook
-
-#### Kotlin
+## Kotlin
 * [``hsk-ktx``](https://github.com/mwy3055/hsk-ktx): Kotlin extension library for you and me. Covers ``Number``, ``Collection``, ``String``, etc.
 
-#### Web development (Full-stack)
-* Frontend
-  * HTML5, CSS3, JavaScript
-* Backend (not yet)
-  * Node.js?
-  * Kotlin?
+## Backend 
+* Flask + uWSGI + NGINX (Beginner level)
 
-* * *
-### ⚡ Fun fact:
+# ⚡ Fun fact
 * 🍧 Mint-Chocolate holic
 * 🎹 Enjoy playing piano!
+* 📈 Investor!
 
-* * *
-### 📫 How to reach me:
+# 📫 How to reach me
 * ✉ [Email](mailto:mwy3055@gmail.com)
 * 💾 [Blog](https://thinking-face.tistory.com/)
 
