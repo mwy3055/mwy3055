@@ -7,16 +7,14 @@ Entry-level developer who wants to create better world for everyone. Interested 
 - Major: Smart ICT Convergence (Very Similar to Computer Science)
 - Minor: Applied Statistics
 
-# 🌱 Skills
-
-## Android Development 
+# 🌱 Android Development 
 
 - Kotlin, Android Jetpack (including Compose), AAC
 - Build an architecture with modularization and test.
 - Utilize popular libraries such as Hilt, Retrofit, Glide, etc.
 - Support robust accessibility features, such as TalkBack.
 
-### Projects
+## Projects
 
 - [Blindar](https://github.com/blinder-23/blinder-android)
   - School Information Calendar App for Blind Students (Meals, School Schedules, etc.)
@@ -25,7 +23,7 @@ Entry-level developer who wants to create better world for everyone. Interested 
    - Notifies any School Announcements of Konkuk University!
   
  
-## Problem Solving & Algorithm
+# ⛏ Problem Solving & Algorithm
 - Baekjoon Online Judge
   - [Profile](https://www.acmicpc.net/user/mwy3055)
   - [Accepted Code](https://github.com/mwy3055/Algorithm-codes/tree/main/baekjoon)
@@ -34,10 +32,8 @@ Entry-level developer who wants to create better world for everyone. Interested 
 
 - Codeforces - [isolet](https://codeforces.com/profile/isolet)
 
-## Kotlin
-* [``hsk-ktx``](https://github.com/mwy3055/hsk-ktx): Kotlin extension library for you and me. Covers ``Number``, ``Collection``, ``String``, etc.
 
-## Backend 
+# ⚙ Backend 
 * Flask + uWSGI + NGINX (Beginner level)
 
 # ⚡ Fun fact
