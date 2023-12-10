@@ -1,6 +1,6 @@
 # 🤔 Always Thinking
 
-Entry-level developer who wants to create better world for everyone. Interested in Android Application, cutting-edge technologies and a11y.
+Entry-level developer who wants to create better world for everyone. Interested in Android Application, latest technologies and a11y.
 
 # 🎓 Education
 **Konkuk University (2018. 03. ~ )**
@@ -20,7 +20,7 @@ Entry-level developer who wants to create better world for everyone. Interested 
   - School Information Calendar App for Blind Students (Meals, School Schedules, etc.)
   - Supported by [7th Barrier-Free Application Development Contest](https://www.autoeverapp.kr/)
  - [KUring](https://github.com/KU-Stacks/KU-Ring-Android)
-   - Notifies any School Announcements of Konkuk University!
+   - Notifies all Announcements of Konkuk University!
   
  
 # ⛏ Problem Solving & Algorithm
