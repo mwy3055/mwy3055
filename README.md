@@ -12,14 +12,19 @@ Junior Android developer who wants to create better world for everyone. Interest
 ## Android Projects
 
 ### Blindar
-_**Team Leader, Main Android Developer, Planning, Design**_
+
+_**2022. 05. ~ | Team Leader, Main Android Developer, Planning, Design**_
+
+
   - Calendar app for blind students in S.Korea (Meals, School Calendar, etc.)
   - Designed screen-reader-compatible UIs and improved them by referencing real user feedbacks
   - [Supported and awarded by 2023 Barrier-Free Application Development Contest](https://github.com/mwy3055/mwy3055/blob/master/README.md#2nd-prize-2023-barrier-free-application-development-contest)
 
 
  ### KUring
-_**Main Android Developer**_
+ 
+_**2023. 01. ~ | Main Android Developer**_
+
   - Notifies all announcements from the Konkuk University!
   - Migrating View system UI into highly reusable Compose components
   - Reduced build time by >10% with modularizing the app into serveral layers
