@@ -1,11 +1,6 @@
 # 🤔 Always Thinking
 
-Entry-level developer who wants to create better world for everyone. Interested in Android Application, latest technologies and a11y.
-
-# 🎓 Education
-**Konkuk University (2018. 03. ~ )**
-- Major: Smart ICT Convergence (Very Similar to Computer Science)
-- Minor: Applied Statistics
+Junior Android developer who wants to create better world for everyone. Interested in declarative UI, design system and a11y.
 
 # 🌱 Android Development 
 
@@ -14,14 +9,20 @@ Entry-level developer who wants to create better world for everyone. Interested 
 - Utilize popular libraries such as Hilt, Retrofit, Glide, etc.
 - Support robust accessibility features, such as TalkBack.
 
-## Projects
+## Android Projects
 
-- [Blindar](https://github.com/blinder-23/blinder-android)
-  - School Information Calendar App for Blind Students (Meals, School Schedules, etc.)
-  - Supported by [7th Barrier-Free Application Development Contest](https://www.autoeverapp.kr/)
- - [KUring](https://github.com/KU-Stacks/KU-Ring-Android)
-   - Notifies all Announcements of Konkuk University!
-  
+### Blindar
+_**Team Leader, Main Android Developer, Planning, Design**_
+  - Calendar app for blind students in S.Korea (Meals, School Calendar, etc.)
+  - Designed screen-reader-compatible UIs and improved them by referencing real user feedbacks
+  - [Supported and awarded by 2023 Barrier-Free Application Development Contest]()
+
+
+ ### KUring
+_**Main Android Developer**_
+  - Notifies all announcements from the Konkuk University!
+  - Migrating View system UI into highly reusable Compose components
+  - Reduced build time by >10% with modularizing the app into serveral layers
  
 # ⛏ Problem Solving & Algorithm
 - Baekjoon Online Judge
@@ -32,9 +33,18 @@ Entry-level developer who wants to create better world for everyone. Interested 
 
 - Codeforces - [isolet](https://codeforces.com/profile/isolet)
 
+# 🏆 Awards
 
-# ⚙ Backend 
-* Flask + uWSGI + NGINX (Beginner level)
+### 2nd Prize, [2023 Barrier-Free Application Development Contest](https://www.autoeverapp.kr/)
+
+* Led the team 'Blindar' as a leader and presented on a final presentation
+* Planned and developed a school calendar application for blind students
+
+# 🎓 Education
+
+### **Konkuk University (2018. 03. ~ 2024. 02.)**
+
+Bachleor of Engineering (Smart ICT Convergence) with minor in Applied Statistics
 
 # ⚡ Fun fact
 * 🍧 Mint-Chocolate holic
