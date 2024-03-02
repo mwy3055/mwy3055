@@ -18,7 +18,7 @@ _**2022. 05. ~ | Team Leader, Main Android Developer, Planning, Design**_
 
   - Calendar app for blind students in S.Korea (Meals, School Calendar, etc.)
   - Designed screen-reader-compatible UIs and improved them by referencing real user feedbacks
-  - [Supported and awarded by 2023 Barrier-Free Application Development Contest](https://github.com/mwy3055/mwy3055/blob/master/README.md#2nd-prize-2023-barrier-free-application-development-contest)
+  - [Supported and awarded by 2023 Barrier-Free Application Development Contest](https://github.com/blinder-23)
 
 
  ### [KUring](https://github.com/ku-ring/KU-Ring-Android)
