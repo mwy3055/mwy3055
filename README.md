@@ -11,7 +11,7 @@ Junior Android developer who wants to create better world for everyone. Interest
 
 ## Android Projects
 
-### Blindar
+### [Blindar](https://github.com/blinder-23)
 
 _**2022. 05. ~ | Team Leader, Main Android Developer, Planning, Design**_
 
@@ -21,7 +21,7 @@ _**2022. 05. ~ | Team Leader, Main Android Developer, Planning, Design**_
   - [Supported and awarded by 2023 Barrier-Free Application Development Contest](https://github.com/mwy3055/mwy3055/blob/master/README.md#2nd-prize-2023-barrier-free-application-development-contest)
 
 
- ### KUring
+ ### [KUring](https://github.com/ku-ring/KU-Ring-Android)
  
 _**2023. 01. ~ | Main Android Developer**_
 
