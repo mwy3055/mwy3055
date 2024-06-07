@@ -11,7 +11,7 @@ Junior Android developer who wants to create better world for everyone. Interest
 
 ## Android Projects
 
-### [Blindar](https://github.com/blinder-23)
+### [Blindar](https://github.com/blinder-23) [(Android Code)](https://github.com/blinder-23/blindar-android)
 
 _**2022. 05. ~ | Team Leader, Main Android Developer, Planning, Design**_
 
