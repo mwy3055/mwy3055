@@ -1,19 +1,26 @@
-# 🤔 Always Thinking
+# Experience
 
-Junior Android developer who wants to create better world for everyone. Interested in declarative UI, design system and a11y.
+Android Platform developer who wants to create better world for everyone. Interested in Android Automotive OS, declarative UI and a11y.
 
-# 🌱 Android Development 
+## 🚗 Android Platform Development
+
+_**2024. 8. ~ | Hyundai Motor Company**_
+
+- Android Automotive OS(AAOS) car framework (RotaryController)
+- Deal various UX scenarios in multi-window infotainment system
+
+# Hobby
+
+## Android Application Development 
 
 - Kotlin, Android Jetpack (including Compose), AAC
 - Build an architecture with modularization and test.
 - Utilize popular libraries such as Hilt, Retrofit, Glide, etc.
 - Support robust accessibility features, such as TalkBack.
 
-## Android Projects
-
 ### [Blindar](https://github.com/blinder-23/blindar-android) [(Team)](https://github.com/blinder-23)
 
-_**2022. 05. ~ | Team Leader, Main Android Developer, Planning, Design**_
+_**2022. 05. ~ 2025. 02. | Team Leader, Main Android Developer, Planning, Design**_
 
 
   - Calendar app for blind students in S.Korea (Meals, School Calendar, etc.)
@@ -22,14 +29,16 @@ _**2022. 05. ~ | Team Leader, Main Android Developer, Planning, Design**_
 
 
  ### [KUring](https://github.com/ku-ring/KU-Ring-Android)
+
+_**2026. 01. ~ | Android Developer, Project Management**_
  
-_**2023. 01. ~ | Main Android Developer**_
+_**2023. 01. ~ 2025. 12. | Main Android Developer**_
 
   - Notifies all announcements from the Konkuk University!
   - Migrating View system UI into highly reusable Compose components
   - Reduced build time by >10% with modularizing the app into serveral layers
  
-# ⛏ Problem Solving & Algorithm
+## Problem Solving & Algorithm
 - Baekjoon Online Judge
   - [Profile](https://www.acmicpc.net/user/mwy3055)
   - [Accepted Code](https://github.com/mwy3055/Algorithm-codes/tree/main/baekjoon)
