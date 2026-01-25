@@ -34,9 +34,11 @@ _**2026. 01. ~ | Android Developer, Project Management**_
  
 _**2023. 01. ~ 2025. 12. | Main Android Developer**_
 
-  - Notifies all announcements from the Konkuk University!
+  - Student Community Application of Konkuk University!
+  - Latest notifications, campus map, etc.
   - Migrating View system UI into highly reusable Compose components
   - Reduced build time by >10% with modularizing the app into serveral layers
+
  
 ## Problem Solving & Algorithm
 - Baekjoon Online Judge
