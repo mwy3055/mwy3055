@@ -6,7 +6,7 @@ Android Platform developer who wants to create better world for everyone. Intere
 
 _**2024. 8. ~ | Hyundai Motor Company**_
 
-- Android Automotive OS(AAOS) car framework (RotaryController)
+- Android Automotive OS(AAOS) car framework
 - Deal various UX scenarios in multi-window infotainment system
 
 # Hobby
@@ -30,7 +30,7 @@ _**2022. 05. ~ 2025. 02. | Team Leader, Main Android Developer, Planning, Design
 
  ### [KUring](https://github.com/ku-ring/KU-Ring-Android)
 
-_**2026. 01. ~ | Android Developer, Project Management**_
+_**2026. 01. ~ 2026. 08. | Android Developer, Project Management**_
  
 _**2023. 01. ~ 2025. 12. | Main Android Developer**_
 
